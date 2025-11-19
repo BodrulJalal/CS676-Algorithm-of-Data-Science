@@ -261,28 +261,3 @@ The Gradio app, backend, persona system, and extraction logic satisfy all requir
 
 ---
 
-## 📎 File Structure (Recommended for Submission)
-
-```
-Deliverable_2/
-│
-├── Project_2_Deliverable_2.ipynb
-├── Deliverable_2_TinyTroupe_Beta_App.md   ← (this file)
-├── simulation_history.md
-├── persona_conversations/
-│   ├── scenario_1.md
-│   ├── scenario_2.md
-│   └── ...
-└── README.md
-```
-
----
-
-## 📧 Contact
-If further refinement is needed, feel free to request:
-
-- A PDF version  
-- Appendix of conversations  
-- Extended persona library  
-- Clean GitHub repo packaging  
-
