@@ -9,6 +9,9 @@ app_file: app.py
 pinned: false
 ---
 
+## This app is also live deployed at:
+https://huggingface.co/spaces/BodrulJalal/Project_2
+
 # TinyTroupe ML Code Generator (Hugging Face Space)
 
 This app lets you:
